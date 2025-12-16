@@ -10,6 +10,8 @@ This project is a start for a bigger data analysis system that uses ptython to a
 ### Files used
 * bikeshare.py -> code file
 * [new_york_city.csv](http://dummylink) -> data file
+* [washington.csv](http://dummylink) -> data file
+* [chicago.csv](http://dummylink) -> data file
 
 Note: Data files will not be included with the repo however you can download it from the link or use your own files
 

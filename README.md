@@ -2,10 +2,10 @@
 Work on this project started on 15-Dec-2025
 
 ### Project Title
-Bikeshare data analysis application
+BikeShare data analysis application
 
 ### Description
-Describe what your project is about and what it does
+This project is a start for a bigger data analysis system that uses ptython to analyze different data sets, being the first dataset BikeShare is chosen to be the application name but it's intended to be generic one.
 
 ### Files used
 Include the files used

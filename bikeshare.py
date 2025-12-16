@@ -24,7 +24,6 @@ def get_filters():
 
     # get user input for day of week (all, monday, tuesday, ... sunday)
 
-
     print('-'*40)
     return city, month, day
 
@@ -40,8 +39,6 @@ def load_data(city, month, day):
     Returns:
         df - Pandas DataFrame containing city data filtered by month and day
     """
-
-
     return df
 
 
@@ -72,12 +69,9 @@ def station_stats(df):
 
     # display most commonly used start station
 
-
     # display most commonly used end station
 
-
     # display most frequent combination of start station and end station trip
-
 
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
@@ -91,9 +85,7 @@ def trip_duration_stats(df):
 
     # display total travel time
 
-
     # display mean travel time
-
 
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)

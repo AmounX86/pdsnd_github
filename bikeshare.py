@@ -39,6 +39,8 @@ def load_data(city, month, day):
     Returns:
         df - Pandas DataFrame containing city data filtered by month and day
     """
+    place_holder = ["", ""]
+    df = pd.DataFrame(place_holder)
     return df
 
 
